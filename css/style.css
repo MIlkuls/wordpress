@@ -89,7 +89,7 @@ h2.title {
 .promo .promo_btn:hover,
 .gift .gift_btn:hover {
   background-image: none;
-  background-color: #811834;
+  background-color: #224996;
 }
 
 .more {
@@ -292,6 +292,9 @@ h2.title {
   display: flex;
   justify-content: center;
   gap: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  color:#ffffff;
 }
 .footer .content,
 .footer .link {
