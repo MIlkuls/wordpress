@@ -86,9 +86,10 @@ h2.title {
   outline: none;
   transition: 0.5s all;
 }
-.promo .promo_btn:hover,.gift .gift_btn:hover {
-  background-image:none;
-  background-color: #186a81;
+.promo .promo_btn:hover,
+.gift .gift_btn:hover {
+  background-image: none;
+  background-color: #811834;
 }
 
 .more {
